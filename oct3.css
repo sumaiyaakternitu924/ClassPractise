@@ -1,0 +1,19 @@
+div {
+    margin: 10px;
+    padding: 10px;
+    width: 90%;
+    border: 2px solid grey;
+    box-shadow: 4px 4px 5px lightcoral;
+    
+}
+
+.flexible {
+
+    display: flex; 
+    justify-content: flex-end;
+}
+
+.orange{
+    background-color: rgb(234, 205, 151);
+
+}
